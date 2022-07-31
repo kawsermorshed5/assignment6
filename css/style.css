@@ -18,6 +18,8 @@ ul {
 }
 
 /* header section start */
+
+
 #header-nav {
     padding: 30px;
 }
@@ -69,7 +71,7 @@ ul {
 }
 
 #banner-right-img {
-    padding-top: 200px;
+    ..
 }
 
 .b-p-text {
